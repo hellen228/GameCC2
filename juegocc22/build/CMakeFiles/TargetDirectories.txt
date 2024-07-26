@@ -1,0 +1,3 @@
+/home/hellen/Descargas/juego/juegocc22/build/CMakeFiles/juego.dir
+/home/hellen/Descargas/juego/juegocc22/build/CMakeFiles/edit_cache.dir
+/home/hellen/Descargas/juego/juegocc22/build/CMakeFiles/rebuild_cache.dir
